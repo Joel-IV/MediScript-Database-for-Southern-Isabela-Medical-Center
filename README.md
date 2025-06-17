@@ -30,7 +30,7 @@ Backend: PHP
 
 Database: MySQL
 
-Tools & Libraries: AJAX, DataTables, Bootstrap (optional)
+Tools & Libraries: AJAX, DataTables, Bootstrap 
 
 📌 Use Cases
 🏥 Clinics and hospitals looking to digitize and centralize medication references
@@ -41,6 +41,12 @@ Tools & Libraries: AJAX, DataTables, Bootstrap (optional)
 This System is being used and improved for the Southern Isabela Medical Center.
 
 Screenshoots
+![Screenshot 2025-06-17 203510](https://github.com/user-attachments/assets/ed139b0c-0086-47fe-a12d-1a3838780a51)
+![Screenshot 2025-06-17 203521](https://github.com/user-attachments/assets/9caa1a4a-bf1f-427c-bf23-ce89d3dff62c)
+![Screenshot 2025-06-17 203530](https://github.com/user-attachments/assets/9c18718c-dd85-4b50-bb8d-1ea04478f485)
+![Screenshot 2025-06-17 203550](https://github.com/user-attachments/assets/ca7663ea-c9f2-42ff-adbe-7e556ff6d721)
+![Screenshot 2025-06-17 203558](https://github.com/user-attachments/assets/c90169ac-d90b-43dc-a2b7-7a7d54ba01de)
+![Screenshot 2025-06-17 203612](https://github.com/user-attachments/assets/26061287-fe82-499a-a997-9c1e1ef538c7)
 
 
 
