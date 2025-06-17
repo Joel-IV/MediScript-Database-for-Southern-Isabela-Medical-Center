@@ -40,7 +40,7 @@ Tools & Libraries: AJAX, DataTables, Bootstrap
 💼 Medical administrators who want to ensure standardized treatment protocols
 This System is being used and improved for the Southern Isabela Medical Center.
 
-Screenshoots
+Screenshots
 ![Screenshot 2025-06-17 203510](https://github.com/user-attachments/assets/ed139b0c-0086-47fe-a12d-1a3838780a51)
 ![Screenshot 2025-06-17 203521](https://github.com/user-attachments/assets/9caa1a4a-bf1f-427c-bf23-ce89d3dff62c)
 ![Screenshot 2025-06-17 203530](https://github.com/user-attachments/assets/9c18718c-dd85-4b50-bb8d-1ea04478f485)
