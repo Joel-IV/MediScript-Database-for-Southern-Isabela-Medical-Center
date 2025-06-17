@@ -41,11 +41,6 @@ Tools & Libraries: AJAX, DataTables, Bootstrap (optional)
 This System is being used and improved for the Southern Isabela Medical Center.
 
 Screenshoots
-![Screenshot 2024-11-09 114414](https://github.com/user-attachments/assets/e1e9186d-8c72-441c-8f85-86d01a91358b)
-![Screenshot 2024-11-09 125435](https://github.com/user-attachments/assets/19cfcdca-a77e-4891-b2d5-26cd8ce4dfa7)
-![Screenshot 2024-12-03 064139](https://github.com/user-attachments/assets/4d26ad48-feb9-487b-a414-32051c672adc)
-![Screenshot 2024-12-03 064221](https://github.com/user-attachments/assets/c43e9113-f2a2-4d12-a614-f750bc8c8f80)]
-![Screenshot 2024-12-03 064240](https://github.com/user-attachments/assets/0fb7e79b-d57e-4349-8ffa-052c32a619af)
 
 
 
