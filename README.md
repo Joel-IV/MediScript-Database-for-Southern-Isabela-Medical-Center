@@ -1,4 +1,4 @@
-![Screenshot 2024-11-09 114414](https://github.com/user-attachments/assets/a3f873e8-7d4a-413e-afe4-735e72da327d)💊 MediScript Database
+💊 MediScript Database
 MediScript Database is a specialized system developed to assist medical professionals in efficiently searching, reviewing, and assessing medications. The system provides a centralized reference for understanding how medications should be administered, their specific requirements, descriptions, and dosage information—all while being optimized for speed and usability.
 
 🔍 Purpose
